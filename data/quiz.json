@@ -1,0 +1,72 @@
+[
+    {
+      "pergunta": "Como se diz 'Olá' em chinês de forma padrão?",
+      "opcoes": ["Nǐ hǎo (你好)", "Zài jiàn (再见)", "Xiè xie (谢谢)", "Duì bu qǐ (对不起)"],
+      "resposta_correta": "Nǐ hǎo (你好)",
+      "pontos": 10,
+      "nivel": "HSK1"
+    },
+    {
+      "pergunta": "Qual partícula é usada para transformar uma afirmação em pergunta?",
+      "opcoes": ["Ma (吗)", "Ne (呢)", "De (的)", "Le (了)"],
+      "resposta_correta": "Ma (吗)",
+      "pontos": 15,
+      "nivel": "Gramática"
+    },
+    {
+      "pergunta": "O que significa 'Wǒ ài nǐ' (我爱你)?",
+      "opcoes": ["Eu te amo", "Eu gosto de você", "Bom dia", "Meu nome é..."],
+      "resposta_correta": "Eu te amo",
+      "pontos": 10,
+      "nivel": "HSK1"
+    },
+    {
+      "pergunta": "Qual destes NÃO é um tom do Mandarim?",
+      "opcoes": ["Circular", "Plano (ā)", "Ascendente (á)", "Descendente (à)"],
+      "resposta_correta": "Circular",
+      "pontos": 10,
+      "nivel": "Básico"
+    },
+    {
+      "pergunta": "Como se diz 'Obrigado'?",
+      "opcoes": ["Xiè xie (谢谢)", "Bù kè qì (不客气)", "Méi guān xi (没关系)", "Hǎo de (好的)"],
+      "resposta_correta": "Xiè xie (谢谢)",
+      "pontos": 10,
+      "nivel": "HSK1"
+    },
+    {
+      "pergunta": "Complete a frase: 'Wǒ ___ Bāxī rén' (Eu sou brasileiro).",
+      "opcoes": ["shì (是)", "yǒu (有)", "zài (在)", "qù (去)"],
+      "resposta_correta": "shì (是)",
+      "pontos": 20,
+      "nivel": "Gramática"
+    },
+    {
+      "pergunta": "Qual é o número '5' em chinês?",
+      "opcoes": ["Wǔ (五)", "Sì (四)", "Liù (六)", "Bā (八)"],
+      "resposta_correta": "Wǔ (五)",
+      "pontos": 10,
+      "nivel": "Números"
+    },
+    {
+      "pergunta": "O que significa a palavra 'Māo' (猫)?",
+      "opcoes": ["Gato", "Cachorro", "Pássaro", "Panda"],
+      "resposta_correta": "Gato",
+      "pontos": 10,
+      "nivel": "Vocabulário"
+    },
+    {
+      "pergunta": "Em 'Honkai: Star Rail', qual seria a tradução aproximada de 'Xing' (como em Xingqiu ou Xinggan)?",
+      "opcoes": ["Estrela / Viajar", "Fogo", "Gelo", "Vento"],
+      "resposta_correta": "Estrela / Viajar",
+      "pontos": 25,
+      "nivel": "Cultura Pop"
+    },
+    {
+      "pergunta": "Qual é a tradução de 'Zài jiàn' (再见)?",
+      "opcoes": ["Adeus / Tchau", "Por favor", "Com licença", "Desculpe"],
+      "resposta_correta": "Adeus / Tchau",
+      "pontos": 10,
+      "nivel": "HSK1"
+    }
+  ]

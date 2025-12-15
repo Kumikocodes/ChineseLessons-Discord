@@ -1,0 +1,62 @@
+[
+    {
+      "hanzi": "医生", "pinyin": "yī shēng", "traducao": "Médico",
+      "categoria": "Profissões", "imagem": "https://i.imgur.com/example_doctor.png"
+    },
+    {
+      "hanzi": "老师", "pinyin": "lǎo shī", "traducao": "Professor",
+      "categoria": "Profissões", "imagem": ""
+    },
+    {
+      "hanzi": "工程师", "pinyin": "gōng chéng shī", "traducao": "Engenheiro",
+      "categoria": "Profissões", "imagem": ""
+    },
+    {
+      "hanzi": "红色", "pinyin": "hóng sè", "traducao": "Vermelho",
+      "categoria": "Cores", "imagem": "https://i.imgur.com/red_color.png"
+    },
+    {
+      "hanzi": "蓝色", "pinyin": "lán sè", "traducao": "Azul",
+      "categoria": "Cores", "imagem": ""
+    },
+    {
+      "hanzi": "绿色", "pinyin": "lǜ sè", "traducao": "Verde",
+      "categoria": "Cores", "imagem": ""
+    },
+    {
+      "hanzi": "苹果", "pinyin": "píng guǒ", "traducao": "Maçã",
+      "categoria": "Alimentos", "imagem": ""
+    },
+    {
+      "hanzi": "面包", "pinyin": "miàn bāo", "traducao": "Pão",
+      "categoria": "Alimentos", "imagem": ""
+    },
+    {
+      "hanzi": "米饭", "pinyin": "mǐ fàn", "traducao": "Arroz Cozido",
+      "categoria": "Alimentos", "imagem": ""
+    },
+    {
+      "hanzi": "白菜", "pinyin": "bái cài", "traducao": "Acelga Chinesa",
+      "categoria": "Verduras", "imagem": ""
+    },
+    {
+      "hanzi": "土豆", "pinyin": "tǔ dòu", "traducao": "Batata",
+      "categoria": "Verduras", "imagem": ""
+    },
+    {
+      "hanzi": "爱", "pinyin": "ài", "traducao": "Amar",
+      "categoria": "Verbos", "imagem": ""
+    },
+    {
+      "hanzi": "吃", "pinyin": "chī", "traducao": "Comer",
+      "categoria": "Verbos", "imagem": ""
+    },
+    {
+      "hanzi": "猫", "pinyin": "māo", "traducao": "Gato",
+      "categoria": "Animais", "imagem": ""
+    },
+    {
+      "hanzi": "狗", "pinyin": "gǒu", "traducao": "Cachorro",
+      "categoria": "Animais", "imagem": ""
+    }
+  ]
